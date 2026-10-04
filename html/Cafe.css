@@ -61,8 +61,17 @@ nav a {
     border-radius: 5px;
 }
 
-nav a:hover{ color: #CBD4C2; background-color: #9e6c6f; text-decoration: underline;}
-nav a:focus { color: #CBD4C2; background-color: #9e6c6f; text-decoration: underline;}
+nav a:hover{ 
+    color: #CBD4C2; 
+    background-color: #9e6c6f; 
+    text-decoration: underline;
+}
+
+nav a:focus { 
+    color: #CBD4C2; 
+    background-color: #9e6c6f; 
+    text-decoration: underline;
+}
 
 button {
  background-color: #523249;
