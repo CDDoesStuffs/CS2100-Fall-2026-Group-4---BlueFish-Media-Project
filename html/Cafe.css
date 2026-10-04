@@ -25,6 +25,22 @@ header {
     background-repeat: no-repeat;
 }
 
+#aboutlogo {  
+    background-image: url(../images/logo.png);
+    background-size: 25% 75%;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 250px;
+}
+
+#menufood {  
+    background-image: url(../images/food.jpg);
+    background-size: 50% 125%;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 250px;
+}
+
 h1 {
     margin: 0;
     font-family: Georgia, serif;
